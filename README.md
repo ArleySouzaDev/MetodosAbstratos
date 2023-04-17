@@ -1,0 +1,3 @@
+# MetodosAbstratos
+
+Encontre as áreas.
